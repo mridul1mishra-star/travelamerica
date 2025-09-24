@@ -1,0 +1,31 @@
+[
+  {
+    "img": "/majorcities/firenzehero.jpg",
+    "title": "Odyssey of the Seas",
+    "route": "Cape Liberty (New York) → New JerseyOrlando (Port Canaveral) → FloridaPerfect Day at CocoCay → BahamasNassau → BahamasCape Liberty (New York) → New Jersey",
+    "duration": "7 Nights",
+    "price": "$732 AVG PER PERSON"
+  },
+  {
+    "img": "/majorcities/cruise-hero.avif",
+    "title": "Carnival Fun Italian Style",
+    "route": "Manhattan(NYC) → Bermuda → Manhattan(NYC)",
+    "duration": "4 Nights",
+    "price": "$549 AVG PER PERSON"
+
+  },
+  {
+    "img": "/majorcities/cityscape.jpg",
+    "title": "Canada & New England Cruise",
+    "route": "Cape Liberty (New York) → BOSTON (MA), → PORTLAND (MAINE), → Saint John(New Brunswick), → Sydney(Nova Scotia), → Cape Liberty (New York)",
+    "duration": "9 Nights",
+    "price": "$895 AVG PER PERSON"
+  },
+  {
+    "img": "/majorcities/summer-cruise.avif",
+    "title": "8 Night Perfect Day Bahamas Cruise",
+    "route": "Cape Liberty (New York) → Orlando Florida → CocoCay(Bahamas) → Nassau (Bahamas) → Cape Liberty (New York)",
+    "duration": "8 Nights",
+    "price": "$895 AVG PER Person"
+  }
+]

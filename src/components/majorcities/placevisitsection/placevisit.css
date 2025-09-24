@@ -1,0 +1,20 @@
+.place-visit{
+  display: flex;
+  gap: 250px;
+  padding-bottom: 30px
+}
+.place-name{
+  padding-left: 10px;
+}
+.fixed-width-div {
+    width: 200px; /* set your desired fixed width */
+    display: flex; /* to align img and text horizontally */
+    align-items: center; /* vertically center items */
+    gap: 8px; /* space between image and text */
+  }
+.plan-trip-section{
+  background-color: #f6f2ef;
+  padding: 40px;
+  padding-bottom: 10px;
+  font-family: Arial, sans-serif;
+}

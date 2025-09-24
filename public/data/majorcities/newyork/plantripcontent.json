@@ -1,0 +1,56 @@
+{
+  "plantripcontentsection": [
+    {
+      "id": 1,
+      "section": "group-section",
+      "content": [
+        "<p>New York City is bursting with iconic landmarks that every group should experience together. Start your adventure at Times Square, where the dazzling billboards and energetic street life set the tone for the trip. Then head to Central Park for a relaxed group stroll or a guided bike tour—it’s a great way to balance the city’s hustle with some green space. No visit is complete without seeing the Statue of Liberty and Ellis Island, which offer both history and breathtaking harbor views. For panoramic cityscapes, the Empire State Building or Top of the Rock observation deck are unforgettable stops, especially at sunset.</p>",
+        "<p>Beyond the classics, explore NYC’s cultural gems. Catch a Broadway show for a shared night of entertainment, or visit the Metropolitan Museum of Art for masterpieces from around the world. Groups with a taste for local flavor can wander through Chelsea Market or Smorgasburg for diverse bites. Don’t miss walking across the Brooklyn Bridge for postcard-perfect skyline views, followed by an evening in DUMBO, where cobblestone streets meet trendy cafes and waterfront parks. With a mix of sightseeing, culture, and food, these must-see spots ensure your group experiences the very best of the Big Apple.</p>",
+        "<h2>Where to Stay</h2>",
+        "<p>Times Square or Midtown hotels (e.g., Marriott Marquis, Hyatt Centric) for easy meet-ups</p>",
+        "<h2>Day 1</h2>",
+        "<p>Morning: Breakfast at Ellen’s Stardust Diner → Statue of Liberty &amp; Ellis Island</p>",
+        "<p>Afternoon: Lunch in Chinatown or Little Italy → 9/11 Memorial &amp; Museum</p>",
+        "<p>Evening: Dinner at Carmine’s → Broadway show</p>",
+        "<h2>Day 2</h2>",
+        "<p>Morning: Guided bike/walk in Central Park</p>",
+        "<p>Afternoon: Shopping in SoHo or Fifth Ave</p>",
+        "<p>Evening: Top of the Rock views → Night out in Meatpacking District</p>"
+      ]
+    },
+    {
+      "id": 2,
+      "section": "solo-section",
+      "content": [
+        "<p>Exploring New York City solo is a thrilling mix of freedom and discovery, with endless must-see spots to fill your itinerary. Start your morning with a quiet walk through Central Park, then head to The Met or MoMA to immerse yourself in world-class art at your own pace. Wander through Greenwich Village and SoHo, where charming streets, coffee shops, and boutique stores invite spontaneous detours. No solo trip is complete without taking in the skyline from the Top of the Rock or One World Observatory, and catching the city lights in Times Square after dark. With the subway at your disposal, you can chase your own curiosity—whether that’s savoring street food, catching a matinee Broadway show, or strolling across the Brooklyn Bridge—making every moment entirely your own.</p>",
+        "<h2>Where to Stay</h2>",
+        "<p>Central, safe spots in Midtown East or Upper East Side (e.g., Pod 51, The Franklin)</p>",
+        "<h2>Day 1</h2>",
+        "<p>Morning: Central Park walk → MoMA or Whitney Museum</p>",
+        "<p>Afternoon: Street food lunch → Greenwich Village exploration</p>",
+        "<p>Evening: Sunset at One World Observatory → Times Square lights</p>",
+        "<h2>Day 2</h2>",
+        "<p>Morning: Bagel breakfast → Staten Island Ferry skyline views</p>",
+        "<p>Afternoon: Chelsea Market → High Line stroll</p>",
+        "<p>Evening: Solo Broadway ticket or live music in East Village</p>"
+      ]
+    },
+    {
+      "id": 3,
+      "section": "couple-section",
+      "content": [
+        "<p>A couple’s getaway to New York City is all about shared moments and unforgettable experiences in the city that never sleeps. Begin your day with a leisurely brunch in the West Village, followed by a romantic stroll through the lush paths of Central Park or a boat ride on the lake. Explore iconic museums like The Met or the Guggenheim hand-in-hand, then wander together through SoHo’s stylish shops and galleries. As evening falls, take in breathtaking views from the Top of the Rock or Empire State Building, and savor a candlelit dinner at a cozy rooftop restaurant. Finish the night with a Broadway show or a walk through the sparkling lights of Times Square, making memories that both of you will cherish forever.</p>",
+    "<h2>Where to Stay</h2>",
+    "<p>Romantic boutique hotel in Chelsea or Upper West Side (e.g., The High Line Hotel, The Lucerne)</p>",
+    "<h2>Day 1</h2>",
+    "<p>Morning: Brunch in West Village → Central Park stroll/rowboat</p>",
+    "<p>Afternoon: The Met or Guggenheim → High Line walk</p>",
+    "<p>Evening: Rooftop cocktails (230 Fifth) → Candlelit dinner → Broadway or jazz club</p>",
+    "<h2>Day 2</h2>",
+    "<p>Morning: Coffee &amp; pastries → Brooklyn Bridge walk</p>",
+    "<p>Afternoon: Explore DUMBO &amp; Brooklyn Heights</p>",
+    "<p>Evening: Sunset from Empire State Building → Dessert at cozy café</p>"
+      ]
+    }
+  ]
+}

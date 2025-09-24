@@ -1,0 +1,30 @@
+{
+  "heading": "Discover America’s Most Iconic Cities",
+  "storydescription": "From the bustling streets of New York to the golden sunsets of Los Angeles, explore the vibrant charm, rich culture, and unique attractions of the USA’s major cities. Whether you’re seeking world-famous landmarks, local hidden gems, or unforgettable food experiences, these destinations have something for every traveler. Scroll through and find your next adventure!",
+  "stories": [
+    {
+      "title": "New York City, New York",
+      "description": "The Statue of Liberty, Times Square, Central Park, Broadway shows, world-class museums...",
+      "image": "nycbanner.jpeg",
+      "link": "majorcities/newyork"
+    },
+    {
+      "title": "Los Angeles, California",
+      "description": "Hollywood, Santa Monica Pier, Venice Beach, Universal Studios, vibrant arts scene....",
+      "image": "https://www.greentalks.com/-/media/Project/AdaniGreenTalks/Stories-images/Explore-Stories-images/robo-bionics-final/Robobionics-Web-Thumbnail05x.jpg",
+      "link": "majorcities/newyork"
+    },
+    {
+      "title": "Las Vegas, Nevada",
+      "description": "Famous casinos and nightlife, the Strip, world-class entertainment, nearby natural attractions like Red Rock Canyon......",
+      "image": "https://www.greentalks.com/-/media/Project/AdaniGreenTalks/Stories-images/Naval-boats/Naval-boats-Story-Web-Thumbnail05x.jpg",
+      "link": "majorcities/newyork"
+    },
+    {
+      "title": "Orlando, Florida",
+      "description": "Theme parks including Walt Disney World, Universal Studios, SeaWorld, family-friendly attractions......",
+      "image": "https://www.greentalks.com/-/media/Project/AdaniGreenTalks/Stories-images/Takachar/TakacharStory-Web-Thumbnail05x.jpg",
+      "link": "majorcities/newyork"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+[
+  {
+    "img": "/majorcities/hotel-edison.jpg",
+    "title": "Hotel Edison Times Square",
+    "route": "Hotel Edison Times Square is a historic Art Deco hotel located in the heart of Manhattan's Theater District, just steps away from Times Square. Established in 1931, the hotel blends classic charm with modern amenities, offering guests a quintessential New York City experience.",
+    "duration": "4.0 (17000)",
+    "price": "$270 1 night, 2 adults"
+  },
+  {
+    "img": "/majorcities/Hyatt-place.webp",
+    "title": "Hyatt Place New York City - Times Square",
+    "route": "Hyatt Place New York City / Times Square offers a modern and convenient stay in the heart of Manhattan. Located just a short walk from Times Square, the hotel provides easy access to major attractions, shopping, and dining options.",
+    "duration": "4.3 (400 reviews)",
+    "price": "$208 1 night, 2 adults"
+
+  },
+  {
+    "img": "/majorcities/dsc05742.jpeg",
+    "title": "Pod Times Square",
+    "route": "A modern, budget-friendly hotel offering compact yet efficiently designed rooms in the heart of New York City. Guests can enjoy a rooftop terrace with skyline views, on-site dining options, and easy access to Broadway theaters, Hudson River Park, and Times Square attractions. Ideal for solo travelers, couples, and tourists looking for a stylish stay without a high price tag. The hotel emphasizes clean, functional spaces, modern amenities, and a vibrant social atmosphere.",
+    "duration": "4.0 (3386 reviews)",
+    "price": "$169 1 night, 2 adults"
+  },
+  {
+    "img": "/majorcities/mariott-nyc.jpg",
+    "title": "Mariot NewYork",
+    "route": "A modern hotel featuring spacious rooms, an M Club lounge with runway views, and a fitness center. It's ideal for both business and leisure travelers seeking comfort and convenience.",
+    "duration": "4.1 (516 reviews)",
+    "price": "$290 1 night, 2 adults"
+  }
+]

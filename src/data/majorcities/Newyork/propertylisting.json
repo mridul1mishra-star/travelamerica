@@ -1,0 +1,118 @@
+{
+  "sections": [
+    {
+      "id": 1,
+      "title": "Book Flights to New York",
+      "className": "flight-section",
+      "header": ["Airline", "Departure", "Arrival", "Duration", "Price", ""],
+      "rows": [
+        {
+          "airline": { "name": "", "logo": "B6.png" },
+          "departure": { "time": "06:45", "city": "Washington DC" },
+          "arrival": { "time": "07:35", "city": "New York" },
+          "duration": "02h 35m",
+          "price": "$64",
+          "buttonText": "View Prices",
+          "buttonUrl": "https://flights.booking.com/flights/WAS.CITY-NYC.CITY/c8e49_52e50148471a6a9b982fa002543f3ad18dfa852ab12ae45956b049388700a6bb8534a1ca8b18ac214bb8a63f3615be4e5a62fc11cfe0bf6639b79cd93c8d728325aba2a7083dd119df38147aae49f6af62f16c4141d2d3314fc1ad40fab6985ebdd11a78db0f8e53940bf162cca71145aa9221f57bf6d1c6cdb45673ba3e5fdb21521ada8550b35bd3e4a6b84c5e2a3408ce7e951c9f03bde0f3bded9b37cfa4044a13607003a1a213cfdd17f2715184b79ec86778004c851e0f30697cccf09e697547888518de2121d35eae3b70dd7fb6aa8520cbc640f88b568faeca18823a53cf589271c4a5ce/?type=ONEWAY&adults=1&cabinClass=ECONOMY&children=&from=WAS.CITY&to=NYC.CITY&fromCountry=US&toCountry=US&fromLocationName=Washington&toLocationName=New+York&depart=2025-10-14&sort=CHEAPEST&travelPurpose=leisure&ca_source=flights_search_sb&aid=304142&label=gen173bo-10CAEoggI46AdIM1gDaKQCiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBmAICqAIBuALVibXGBsACAdICJGZmZWY0MjJmLTNlYTAtNDM3OS1hMjFmLThhM2JmMGZhZDczONgCAeACAQ"
+        },
+        {
+          "airline": { "name": "", "logo": "NK.png" },
+          "departure": { "time": "16:54", "city": "BOSTON" },
+          "arrival": { "time": "22:41", "city": "New York" },
+          "duration": "29h 47m",
+          "price": "$49",
+          "buttonText": "View Prices",
+          "buttonUrl": "https://flights.booking.com/flights/BOS.AIRPORT-NYC.CITY/d6a1f_H4sIAAAAAAAA_y1QW4-iMBT-NfpGacEBnaTZOMi6CNQRCl5eGiwXWd1hhnYC-Ou3I6Yn_S75zklPL1J-ilddL291dZFC-xagamRTZbIAvPmnl626zk1zrT8qPatb_W0bk6MDra1DdaRr6vDX468i-6xBC0rsHqgbkWXAaOS9s_fIczyynha91ETL8bQ-FyATHCPXXz9Fiy1g2fZGzUUPizcSz4Bt7NI9orPdYjRbvE7n6EgeKseh03Xb-1KEVAbU6QO6EgMZuoHchUxungjSTby98yFJT4cwJac4vdohzWOV6QnyzGDlIuI2qj-Bcd1nu6QR--tvX_kdoeHYD-cijTsZQiiCZOMH7u0QuPmfYBWdAgdFtJqYK1WPJxVcbQXAzF6MWzSZwPbcGDmXGD3tXGJqJMt9OEq16tyCD97meMz0GJmWCaeiuBVc1s2HXwyY-MiyoaY-nkvjRTsy4psLU4P2U08MB1mo-Oouik3MpaqKQQAVXp6YsdgCh5liZ2ZHCjizYwU5O-f5XJGC_cRK9hOpGQJj21_m7RXcGRrKtv36_g9Le3yaMwIAAA../?type=ONEWAY&adults=1&cabinClass=ECONOMY&children=&from=BOS.AIRPORT&to=NYC.CITY&fromCountry=US&toCountry=US&fromLocationName=Logan+Airport&toLocationName=New+York&depart=2025-10-06&sort=CHEAPEST&travelPurpose=leisure&ca_source=flights_search_sb&aid=304142&label=gen173bo-10CAEoggI46AdIM1gDaKQCiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBmAICqAIBuALVibXGBsACAdICJGZmZWY0MjJmLTNlYTAtNDM3OS1hMjFmLThhM2JmMGZhZDczONgCAeACAQ",
+          "highlight": true
+        },
+        {
+          "airline": { "name": "", "logo": "NK.png" },
+          "departure": { "time": "01:05", "city": "Orlando" },
+          "arrival": { "time": "02:05", "city": "New York" },
+          "duration": "02h 42m",
+          "price": "$43",
+          "buttonText": "View Prices" ,
+          "buttonUrl": "https://flights.booking.com/flights/ORL.CITY-NYC.CITY/d6a1f_H4sIAAAAAAAA_y2QW4-qMBSFf42-UWjLCJo0Jxxl5jByUajO6EuDBbGOxxraiZdfPxUmbdb69t4raXYPWl_UxLb3J9EctLK-FWiklk2pa8Dlf3vfGtlJ-SXOjV2K1s7yON1MoZtNqQ1tyxw-2fypy4sALdiT8JOGeRrEjObRgi3yaBqlb8P6pi3VcjIUuxqUipNF4P9yS0Zg5Hn-X9f3uhaXmrjAQ8tFsB39K8Z9syVvcwrdqKsqkszUNXN0kj0inN1hsToqnJxel8u1ROlxW2SPEK-OXCW0KtL79ZbSfB7PQpiGUn3MqtwwLqBU8fq9yBxHrYurTozHq3eTC1RMQ5W_hgM86x6sOScQANcbw66WpSKe_8tcE-j0WGlC0SrY9ss9F8G4H7UV6eM3AvEIjYeqPtVcC3me13eSzpGPHMv8KtfoxdoM0HR3di5fwsAAB-Y2zDF66LRkITW2Y97WGO-tYuUYuQbqLrNnTxYMAgc86yOLPow9GLx6UMjHD3Viixf4AQAA/?type=ONEWAY&adults=1&cabinClass=ECONOMY&children=&from=ORL.CITY&to=NYC.CITY&fromCountry=US&toCountry=US&fromLocationName=Orlando&toLocationName=New+York&depart=2025-10-14&sort=CHEAPEST&travelPurpose=leisure&ca_source=flights_search_sb&aid=304142&label=gen173bo-10CAEoggI46AdIM1gDaKQCiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBmAICqAIBuALVibXGBsACAdICJGZmZWY0MjJmLTNlYTAtNDM3OS1hMjFmLThhM2JmMGZhZDczONgCAeACAQ"         
+        },
+        {
+          "airline": { "name": "", "logo": "F9.png" },
+          "departure": { "time": "01:05", "city": "Atlanta" },
+          "arrival": { "time": "02:05", "city": "New York" },
+          "duration": "02h 35m",
+          "price": "$39",
+          "buttonText": "View Prices",
+          "highlight": true,
+          "buttonUrl": "https://flights.booking.com/flights/ATL.AIRPORT-NYC.CITY/d6a1f_H4sIAAAAAAAA_y2Q3W6jMBCFnya5w2AgASpZKwpOlwZwwk-y2RsExiE02brC3k3K068Lla1zvhmNND6-SPkhnnT9fOu7ixTaXwE6LnlXSwYo_6OfByUN59f-vdPrftD9Ik5PAbRJUOhQ19ShT6cfrP7owQDOCP8qcJb6cVVk0a7aZVEQpS9L9pCaGCha9g0DtaBo57vfPKA1WDvO6kBen6cW5RLZwDH322ecG7icmwN6-Um2pTdVLUpCcSewhGSMLPIJ8_JNWMltE--vh7zEkJAR2xnGIikueJ_fH2mRbeMQwxRzcQzbTLGVQy7iw2tOxk0ahxsSB8ZY5He5v3KRBHeZ5I_g6C-sUN1pLaMUQQBsx4NTzWuBHPebqUTQmLGVqDBLv5zzqDiW681xhxbN4w8ErbVlLAW7MSp7_r5ln2jj2WvD1NTfUmmutNPCDJpVdxuFgoWlXuJ3laH0MmldQXhS3lTOb2V0trbyXNtWwKahc_XFfQWBAb7qtyo6Khsr-M9omHT_A69Zelj_AQAA/?type=ONEWAY&adults=1&cabinClass=ECONOMY&children=&from=ATL.AIRPORT&to=NYC.CITY&fromCountry=US&toCountry=US&fromLocationName=Hartsfield%E2%80%93Jackson+Atlanta+International+Airport&toLocationName=New+York&depart=2025-10-14&sort=CHEAPEST&travelPurpose=leisure&ca_source=flights_search_sb&aid=304142&label=gen173bo-10CAEoggI46AdIM1gDaKQCiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBmAICqAIBuALVibXGBsACAdICJGZmZWY0MjJmLTNlYTAtNDM3OS1hMjFmLThhM2JmMGZhZDczONgCAeACAQ"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Book Hotels to New York",
+      "className": "hotel-section",
+      "header": ["Travel Type", "Departure", "Arrival", "Duration", "Price", ""],
+      "rows": [
+        {
+          "airline": { "name": "Solo", "logo": "" },
+          "departure": { "time": "06:45", "city": "Guwahati" },
+          "arrival": { "time": "07:35", "city": "Agartala" },
+          "duration": "00h 50m",
+          "price": "₹1,972",
+          "buttonText": "View Prices"
+        },
+        {
+          "airline": { "name": "IndiGo", "logo": "indigo-icon.png" },
+          "departure": { "time": "09:30", "city": "Imphal" },
+          "arrival": { "time": "10:20", "city": "Agartala" },
+          "duration": "00h 50m",
+          "price": "₹2,887",
+          "buttonText": "View Prices"
+        },
+        {
+          "airline": { "name": "Air India", "logo": "airindia-icon.png" },
+          "departure": { "time": "01:05", "city": "Kolkata" },
+          "arrival": { "time": "02:05", "city": "Agartala" },
+          "duration": "01h 00m",
+          "price": "₹3,560",
+          "buttonText": "View Prices",
+          "highlight": true
+        }
+        
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Book Cruise to New York",
+      "className": "cruise-section",
+      "header": ["Airline", "Departure", "Arrival", "Duration", "Price", ""],
+      "rows": [
+        {
+          "airline": { "name": "IndiGo", "logo": "indigo-icon.png" },
+          "departure": { "time": "06:45", "city": "Guwahati" },
+          "arrival": { "time": "07:35", "city": "Agartala" },
+          "duration": "00h 50m",
+          "price": "₹1,972",
+          "buttonText": "View Prices"
+        },
+        {
+          "airline": { "name": "IndiGo", "logo": "indigo-icon.png" },
+          "departure": { "time": "09:30", "city": "Imphal" },
+          "arrival": { "time": "10:20", "city": "Agartala" },
+          "duration": "00h 50m",
+          "price": "₹2,887",
+          "buttonText": "View Prices"
+        },
+        {
+          "airline": { "name": "Air India", "logo": "airindia-icon.png" },
+          "departure": { "time": "01:05", "city": "Kolkata" },
+          "arrival": { "time": "02:05", "city": "Agartala" },
+          "duration": "01h 00m",
+          "price": "₹3,560",
+          "buttonText": "View Prices",
+          "highlight": true
+        }
+        
+      ]
+    }
+  ]
+}

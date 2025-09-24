@@ -1,0 +1,30 @@
+{
+  "heading": "Natural Wonders of the USA",
+  "storydescription": "Discover America’s most breathtaking natural landmarks — from towering mountains and pristine lakes to majestic canyons and untouched coastlines. Explore the beauty that makes each destination truly unforgettable.",
+  "stories": [
+    {
+      "title": "New York City, New York",
+      "description": "The Statue of Liberty, Times Square, Central Park, Broadway shows, world-class museums...",
+      "image": "https://www.greentalks.com/-/media/Project/AdaniGreenTalks/Stories-images/Explore-Stories-images/new-inventions/Jayshree--Web-Thumbnail05x.jpg",
+      "link": "majorcities/newyork"
+    },
+    {
+      "title": "Los Angeles, California",
+      "description": "Hollywood, Santa Monica Pier, Venice Beach, Universal Studios, vibrant arts scene....",
+      "image": "https://www.greentalks.com/-/media/Project/AdaniGreenTalks/Stories-images/Explore-Stories-images/robo-bionics-final/Robobionics-Web-Thumbnail05x.jpg",
+      "link": "majorcities/losangeles"
+    },
+    {
+      "title": "Las Vegas, Nevada",
+      "description": "Famous casinos and nightlife, the Strip, world-class entertainment, nearby natural attractions like Red Rock Canyon......",
+      "image": "https://www.greentalks.com/-/media/Project/AdaniGreenTalks/Stories-images/Naval-boats/Naval-boats-Story-Web-Thumbnail05x.jpg",
+      "link": "majorcities/losangeles"
+    },
+    {
+      "title": "Orlando, Florida",
+      "description": "Theme parks including Walt Disney World, Universal Studios, SeaWorld, family-friendly attractions......",
+      "image": "https://www.greentalks.com/-/media/Project/AdaniGreenTalks/Stories-images/Takachar/TakacharStory-Web-Thumbnail05x.jpg",
+      "link": "majorcities/losangeles"
+    }
+  ]
+}

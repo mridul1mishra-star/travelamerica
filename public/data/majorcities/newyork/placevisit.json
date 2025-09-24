@@ -1,0 +1,47 @@
+{
+  "planTripSection": {
+    "title": "Place to visit in New York",
+    "places": [
+      [
+        {
+          "name": "Brooklyn Bridge",
+          "icon": "https://sa.adanione.com/-/media/Project/Campaigns/Train-SEO/WEB/PNR-Status/Icons/Current-Location.svg"
+        },
+        {
+          "name": "Central Park",
+          "icon": "https://sa.adanione.com/-/media/Project/Campaigns/Train-SEO/WEB/PNR-Status/Icons/Current-Location.svg"
+        }
+      ],
+      [
+        {
+          "name": "Times Square",
+          "icon": "https://sa.adanione.com/-/media/Project/Campaigns/Train-SEO/WEB/PNR-Status/Icons/Current-Location.svg"
+        },
+        {
+          "name": "Metropolitan Museum of Art",
+          "icon": "https://sa.adanione.com/-/media/Project/Campaigns/Train-SEO/WEB/PNR-Status/Icons/Current-Location.svg"
+        }
+      ],
+      [
+        {
+          "name": "Statue of Liberty",
+          "icon": "https://sa.adanione.com/-/media/Project/Campaigns/Train-SEO/WEB/PNR-Status/Icons/Current-Location.svg"
+        },
+        {
+          "name": "Empire State Building",
+          "icon": "https://sa.adanione.com/-/media/Project/Campaigns/Train-SEO/WEB/PNR-Status/Icons/Current-Location.svg"
+        }
+      ],
+      [
+        {
+          "name": "High Line",
+          "icon": "https://sa.adanione.com/-/media/Project/Campaigns/Train-SEO/WEB/PNR-Status/Icons/Current-Location.svg"
+        },
+        {
+          "name": "Broadway",
+          "icon": "https://sa.adanione.com/-/media/Project/Campaigns/Train-SEO/WEB/PNR-Status/Icons/Current-Location.svg"
+        }
+      ]
+    ]
+  }
+}

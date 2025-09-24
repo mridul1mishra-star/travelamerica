@@ -1,0 +1,29 @@
+[
+{
+  "title": "Planning a trip to New York",
+  "description": "New York City is a vibrant metropolis where iconic landmarks, diverse culture, and endless adventures come alive around every corner.",
+  "tabs": [
+    {
+      "id": 1,
+      "label": "Group",
+      "img": "https://www.adaniairports.com/-/media/project/ahmedabadairport/home/departures.svg",
+      "section": "group-section",
+      "color": "#FFA726"
+    },
+    {
+      "id": 2,
+      "label": "Solo",
+      "img": "https://www.adaniairports.com/-/media/project/ahmedabadairport/home/departures.svg",
+      "section": "solo-section",
+      "color": "#E57373"
+    },
+    {
+      "id": 3,
+      "label": "Couple",
+      "img": "https://www.adaniairports.com/-/media/project/ahmedabadairport/home/departures.svg",
+      "section": "couple-section",
+      "color": "#26A69A"
+    }
+  ]
+}
+]

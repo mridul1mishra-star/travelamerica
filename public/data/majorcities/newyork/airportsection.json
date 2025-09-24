@@ -1,0 +1,26 @@
+[
+{
+  "title": "Experience New York",
+  "description": "Shop, dine or simply unwind at our lounges, our airport offers all that you need to make the most of your time.",
+  "tabs": [
+    {
+      "id": 1,
+      "label": "Flights",
+      "img": "https://www.adaniairports.com/-/media/project/ahmedabadairport/home/departures.svg",
+      "section": "flight-section"
+    },
+    {
+      "id": 2,
+      "label": "Stays",
+      "img": "https://www.adaniairports.com/-/media/project/ahmedabadairport/home/departures.svg",
+      "section": "hotel-section"
+    },
+    {
+      "id": 3,
+      "label": "Cruise",
+      "img": "https://www.adaniairports.com/-/media/project/ahmedabadairport/home/departures.svg",
+      "section": "cruise-section"
+    }
+  ]
+}
+]

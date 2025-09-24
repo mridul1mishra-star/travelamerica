@@ -1,0 +1,43 @@
+.travel-footer {
+  background: #0a1a2f;
+  color: white;
+  padding: 40px;
+  font-family: sans-serif;
+}
+
+.footer-top {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+.footer-top h3 {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.footer-top ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-top ul li {
+  margin-bottom: 6px;
+}
+
+.footer-top ul li a {
+  color: #bbb;
+  text-decoration: none;
+}
+
+.footer-top ul li a:hover {
+  color: #ffcc00;
+}
+
+.footer-bottom {
+  text-align: center;
+  border-top: 1px solid rgba(255,255,255,0.2);
+  padding-top: 10px;
+  font-size: 14px;
+}

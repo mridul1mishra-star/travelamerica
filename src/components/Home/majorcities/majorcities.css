@@ -1,0 +1,124 @@
+.green-stories {
+  text-align: center;
+  padding: 40px;
+}
+
+
+
+.green-stories p {
+  color: #555;
+  margin-bottom: 30px;
+}
+
+.story-cards {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.story-card {
+  background: white;
+  border: 1px solid #eee;
+  border-radius: 4px;
+  overflow: hidden;
+  width: 250px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.story-card img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+}
+
+.story-content {
+  padding: 15px;
+  text-align: left;
+}
+
+.story-content h3 {
+  margin: 0;
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+.story-content p {
+  font-size: 0.9rem;
+  color: #555;
+  margin: 5px 0 10px;
+}
+
+.story-content a {
+  font-weight: bold;
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.story-content a:hover {
+  text-decoration: underline;
+}
+
+.carousel-controls {
+  margin-top: 20px;
+}
+
+.carousel-controls button {
+  background: white;
+  border: 1px solid black;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.carousel-controls button:hover {
+  background: #eee;
+}
+.view-more-btn {
+  all: unset;
+  cursor: pointer;
+  background-color: #ff6600;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+.view-more-btn:hover {
+  background-color: #e65500;
+}
+.description-text {
+    max-width: 900px; /* keeps line length readable */
+    margin: 20px auto 40px; /* centers and adds space above/below */
+    font-size: 1.1rem; /* slightly larger than default */
+    line-height: 1.6; /* better readability */
+    color: #555; /* softer contrast than pure black */
+    text-align: center; /* aligns nicely under the heading */
+    font-family: "Segoe UI", Roboto, Arial, sans-serif;
+    letter-spacing: 0.2px; /* subtle spacing for modern feel */
+    padding: 0 15px; /* prevent text from touching edges on smaller screens */
+}
+.section-heading {
+    font-size: 2.5rem; /* large, commanding */
+    font-weight: 700; /* strong emphasis */
+    text-align: center;
+    color: #222; /* dark, high contrast */
+    font-family: "Merriweather", "Georgia", serif; /* elegant but readable */
+    letter-spacing: 0.5px; /* subtle spacing for refinement */
+    margin-bottom: 15px;
+    margin-top: 10px;
+    background: linear-gradient(90deg, #1d4ed8, #3b82f6); /* blue gradient */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; /* gradient text effect */
+}
+.back-to-top {
+  all: unset;           /* remove all browser default styles */
+  cursor: pointer;      /* add cursor back */
+  display: inline-block; /* needed if you want width/height */
+  /* now you can add your own styles */
+  
+}
