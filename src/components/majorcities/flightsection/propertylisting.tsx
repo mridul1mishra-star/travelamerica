@@ -1,4 +1,5 @@
-import React, { useRef } from "react";
+import React, { useRef, useEffect, useState } from "react";
+import { useParams } from "react-router-dom";
 import "./propertylisting.css";
 import PropertyListingModel from "../../../models/propertylisting";
 import {Cruise} from "../../../models/propertylisting";
@@ -11,13 +12,40 @@ type SectionsProps = {
 };
 
 
-const cruises: Cruise[] = cruisesData;
-const hotels: Cruise[] = hotelsData;
+
 
 const Propertylisting: React.FC<SectionsProps> = ({content, active}) =>{
+  const { city } = useParams();
+  const [hotels, setHotels] = useState<Cruise[]>([]);
+  const [cruises, setCruise] = useState<Cruise[]>([]);
+  const [loading, setLoading] = useState(true);
+  useEffect(() => {
+    if (!city) return;
+
+    const fetchHotels = async () => {
+      try {
+        setLoading(true);
+        const [hotelRes, cruiseRes] = await Promise.all([
+          fetch(`${process.env.PUBLIC_URL}/data/majorcities/${city}/hotels.json`),
+          fetch(`${process.env.PUBLIC_URL}/data/majorcities/${city}/cruises.json`)
+        ]);
+        const [hotelData, cruiseData]: [Cruise[], Cruise[]] = await Promise.all([
+          hotelRes.json(),
+          cruiseRes.json()
+        ]);
+        setHotels(hotelData);
+        setCruise(cruiseData);
+      } catch (error) {
+        console.error("Error fetching hotels:", error);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    fetchHotels();
+  }, [city]);
   const section = content.find(s => s.id === active);
   const trackRef = useRef<HTMLDivElement | null>(null);
-  
     const scroll = (direction: "left" | "right") => {
       if (trackRef.current) {
         const scrollAmount = trackRef.current.offsetWidth * 0.8;
@@ -28,6 +56,7 @@ const Propertylisting: React.FC<SectionsProps> = ({content, active}) =>{
       }
     };
   if (!section) return null;
+  if (!city) return <div>Loading place visit data...</div>;;
   if (section.id === 1)
   {
     return(
@@ -71,10 +100,11 @@ const Propertylisting: React.FC<SectionsProps> = ({content, active}) =>{
   }
   if(section.id === 2)
   {
+    
     return(
       <section className="cruise-carousel-container">
       <div className="carousel-header">
-        <h2 className="carousel-title">Book Hotels in New York</h2>
+        <h2 className="carousel-title">Book Hotels in {capitalizeWords(city)}</h2>
         <div className="nav-buttons">
           <button className="nav-btn top" onClick={() => scroll("left")}>❮</button>
           <button className="nav-btn top" onClick={() => scroll("right")}>❯</button>
@@ -112,7 +142,7 @@ const Propertylisting: React.FC<SectionsProps> = ({content, active}) =>{
     return(
       <section className="cruise-carousel-container">
       <div className="carousel-header">
-        <h2 className="carousel-title">Book Cruises to New York</h2>
+        <h2 className="carousel-title">Book Cruises to {capitalizeWords(city)}</h2>
         <div className="nav-buttons">
           <button className="nav-btn top" onClick={() => scroll("left")}>❮</button>
           <button className="nav-btn top" onClick={() => scroll("right")}>❯</button>
@@ -135,7 +165,9 @@ const Propertylisting: React.FC<SectionsProps> = ({content, active}) =>{
                   <span className="amount">{c.price.split(" ")[0]}</span>{" "}<br />
                   <span className="per-person">{c.price.split(" ").slice(1).join(" ")}</span>
                 </p>
+                <a href={c.url} target="_blank" rel="noopener noreferrer">
                 <p className="price"><button className="details-btn">View Details</button></p>
+                </a>
                 </div>
               </div>
             </div>
@@ -148,5 +180,9 @@ const Propertylisting: React.FC<SectionsProps> = ({content, active}) =>{
   
     
 };
-
+function capitalizeWords(str: string) {
+  return str
+    .toLowerCase()
+    .replace(/\b\w/g, (char) => char.toUpperCase());
+}
 export default Propertylisting;

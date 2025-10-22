@@ -5,7 +5,7 @@ import Cities from "../../../models/majorcities";
 
 type Props = {
  onSelect: (section: number) => void;
- content: Cities[];
+ content: Cities;
 };
 
 
@@ -15,7 +15,10 @@ const Airportsection: React.FC<Props> = ({content, onSelect})=> {
     setActive(id);      
     onSelect(id);       
   };
-    const city = content[0];
+  if (!content) {
+    return <div>No airport data available</div>;
+  }
+    const city = content;
     return(
         <section className="airport-section">
   <div className="container">

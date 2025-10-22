@@ -1,0 +1,47 @@
+{
+  "planTripSection": {
+    "title": "Place to visit in New York",
+    "places": [
+      [
+        {
+          "name": "TCL Chinese Theatre",
+          "icon": "https://sa.adanione.com/-/media/Project/Campaigns/Train-SEO/WEB/PNR-Status/Icons/Current-Location.svg"
+        },
+        {
+          "name": "Hollywood Sign",
+          "icon": "https://sa.adanione.com/-/media/Project/Campaigns/Train-SEO/WEB/PNR-Status/Icons/Current-Location.svg"
+        }
+      ],
+      [
+        {
+          "name": "Santa Monica Pier",
+          "icon": "https://sa.adanione.com/-/media/Project/Campaigns/Train-SEO/WEB/PNR-Status/Icons/Current-Location.svg"
+        },
+        {
+          "name": "Venice Beach Boardwalk",
+          "icon": "https://sa.adanione.com/-/media/Project/Campaigns/Train-SEO/WEB/PNR-Status/Icons/Current-Location.svg"
+        }
+      ],
+      [
+        {
+          "name": "The Getty Center",
+          "icon": "https://sa.adanione.com/-/media/Project/Campaigns/Train-SEO/WEB/PNR-Status/Icons/Current-Location.svg"
+        },
+        {
+          "name": "The Broad Museum & Walt Disney Concert Hall",
+          "icon": "https://sa.adanione.com/-/media/Project/Campaigns/Train-SEO/WEB/PNR-Status/Icons/Current-Location.svg"
+        }
+      ],
+      [
+        {
+          "name": "Rodeo Drive & Beverly Hills",
+          "icon": "https://sa.adanione.com/-/media/Project/Campaigns/Train-SEO/WEB/PNR-Status/Icons/Current-Location.svg"
+        },
+        {
+          "name": "Universal Studios Hollywood",
+          "icon": "https://sa.adanione.com/-/media/Project/Campaigns/Train-SEO/WEB/PNR-Status/Icons/Current-Location.svg"
+        }
+      ]
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "img": "/data/majorcities/losangeles/assets/carnival-baja-mexico-region-image-2.avif",
+    "title": "Los Angeles",
+    "route": "Los Angeles → Catalina Island → Ensenada → Los Angeles",
+    "duration": "4 Nights",
+    "price": "$189 AVG PER PERSON",
+    "url": "https://www.carnival.com/booking/review?embkCode=LAX&itinCode=LXQ&durDays=4&shipCode=FN&subRegionCode=MB&sailingID=20717&sailDate=12072025&numGuests=2&isMilitary=N&isOver55=N&isPastGuest=N&stateCode=&couponCode=&evsel=&locality=1&currency=USD&qbPrice=189&qbMetaCode=IS&qbRateCode=P2P&country=US"
+  },
+  {
+    "img": "/data/majorcities/losangeles/assets/royal-carribean-cruise.webp",
+    "title": "Navigator of the Seas",
+    "route": "Los Angeles → Ensenada, Mexico → Cabo → Vallarta → Los Angeles",
+    "duration": "7 Nights",
+    "price": "$530 AVG PER PERSON",
+    "url": "https://www.royalcaribbean.com/itinerary/7-night-ensenada-cabo-vallarta-cruise-from-los-angeles-on-navigator-NV07X058?country=USA&currencyCode=USD&sailDate=2026-01-26"
+  },
+  {
+    "img": "/data/majorcities/losangeles/assets/1440_JOY15LAXCSLACAPRQPCLPCTCTGMIA.avif",
+    "title": "Norwegian Cruise",
+    "route": "Los Angeles → Cabo → Acapulco → Puerto Quetzal → Puntarenas → Panama City(Panama Canal) → Cartagena → Colombia to Miami",
+    "duration": "15 Nights",
+    "price": "$1,199 AVG PER PERSON",
+    "url": "https://www.ncl.com/vacation-builder/planning/cruise-itinerary?itineraryCode=JOY15LAXCSLACAPRQPCLPCTCTGMIA-NIC-JOY15LAXACACSLCTGPCLPCTPRQMIA&guests=2&gateway=NONE"
+  }
+]

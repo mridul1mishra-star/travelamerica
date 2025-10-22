@@ -5,11 +5,11 @@ export interface Place {
 
 export type PlaceRow = Place[];
 
-export interface PlanTripSection {
+export interface PlaceVisitSection {
   title: string;
   places: PlaceRow[];
 }
 
 export interface PlacevisitJson {
-  planTripSection: PlanTripSection;
+  planTripSection: PlaceVisitSection;
 }

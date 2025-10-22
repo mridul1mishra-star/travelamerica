@@ -1,0 +1,34 @@
+[
+  {
+    "img": "/data/majorcities/losangeles/assets/loews-hollywood-hotel.jpg",
+    "title": "Loews Hollywood Hotel",
+    "route": "Loews Hollywood Hotel offers a modern, upscale stay in the heart of Los Angeles, placing guests right next to the world-famous Hollywood Walk of Fame, TCL Chinese Theatre, and the Dolby Theatre. Known for its prime location within the Hollywood & Highland complex, the hotel is a popular choice for travelers who want to be steps away from shopping, dining, and iconic landmarks.",
+    "duration": "4.5 (5,400)",
+    "price": "$299 1 night, 2 adults",
+    "url": "https://reservations.loewshotels.com/rooms/hollywood-hotel?check-in=2025-10-22&check-out=2025-10-23&rooms=1&adults=1&children=0&rate=CPKPAS"
+  },
+  {
+    "img": "/data/majorcities/losangeles/assets/Freehand-Hotel.jpg",
+    "title": "Freehand Los Angeles",
+    "route": "Freehand Los Angeles blends boutique style with hostel vibes in downtown LA. Set in a restored 1920s building, it offers chic private rooms, shared dorms, and a rooftop pool with sweeping city views. Popular for its artsy design, lively Broken Shaker bar, and central location near entertainment and dining.",
+    "duration": "3 (672 reviews)",
+    "price": "$108 1 night, 2 adults",
+    "url": "https://www.booking.com/hotel/us/freehand-los-angeles.html?aid=2276674&label=msn-r92LlIDH7ysN7G_rX9OEFg-80127075285737%3Atikwd-80127263367521%3Aloc-190%3Aneo%3Amte%3Alp96789%3Adec%3AqsFreehand%20Los%20Angeles&sid=50697d3a2a1c8ab93bb555d9cd655158&age=0&all_sr_blocks=208673609_347117586_0_0_0_566874&checkin=2025-09-30&checkout=2025-10-01&dest_id=20014181&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=208673609_347117586_0_0_0_566874&hpos=1&matching_block_id=208673609_347117586_0_0_0_566874&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=208673609_347117586_0_0_0_566874_10756&srepoch=1758984211&srpvid=42a3677cdab000d2&type=total&ucfs=1&"
+  },
+  {
+    "img": "/data/majorcities/losangeles/assets/podshare-hollywood.webp",
+    "title": "PodShare Hollywood",
+    "route": "PodShare Hollywood is a budget-friendly co-living space in the heart of Hollywood, Los Angeles. It offers shared sleeping pods, communal kitchens, and lounge areas, creating a social and vibrant environment. Ideal for solo travelers, digital nomads, or groups seeking affordable accommodations near major attractions like the Walk of Fame.",
+    "duration": "4.0 (152 reviews)",
+    "price": "$56 1 night, 2 adults",
+    "url": "https://www.booking.com/hotel/us/podshare-hollywood.html?aid=2276674&label=msn-r92LlIDH7ysN7G_rX9OEFg-80127075285737%3Atikwd-80127263367521%3Aloc-190%3Aneo%3Amte%3Alp96789%3Adec%3AqsFreehand%20Los%20Angeles&sid=50697d3a2a1c8ab93bb555d9cd655158&all_sr_blocks=207976503_95463134_0_0_0&checkin=2025-10-08&checkout=2025-10-09&dest_id=2079765&dest_type=hotel&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=207976503_95463134_0_0_0&hpos=1&matching_block_id=207976503_95463134_0_0_0&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=207976503_95463134_0_0_0__5576&srepoch=1758984686&srpvid=eeac6871bf340339&type=total&ucfs=1&"
+  },
+  {
+    "img": "/data/majorcities/losangeles/assets/Linehotel-LA.webp",
+    "title": "The LINE Hotel LA",
+    "route": "The LINE Hotel Los Angeles, located in vibrant Koreatown, offers a stylish and modern boutique experience ideal for couples. With chic rooms, rooftop pool, and trendy dining, it blends romance and city energy. Perfect for couples seeking a lively, design-focused stay while exploring LA’s restaurants, nightlife, and attractions.",
+    "duration": "4.0 (1574 reviews)",
+    "price": "$169 1 night, 2 adults",
+    "url": "https://www.booking.com/hotel/us/the-l-a-line.html?aid=2276674&label=msn-r92LlIDH7ysN7G_rX9OEFg-80127075285737%3Atikwd-80127263367521%3Aloc-190%3Aneo%3Amte%3Alp96789%3Adec%3AqsFreehand%20Los%20Angeles&sid=50697d3a2a1c8ab93bb555d9cd655158&all_sr_blocks=46593502_91930054_2_0_0_236312&checkin=2025-10-08&checkout=2025-10-09&dest_id=465935&dest_type=hotel&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=46593502_91930054_2_0_0_236312&hpos=1&matching_block_id=46593502_91930054_2_0_0_236312&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=46593502_91930054_2_0_0_236312_16892&srepoch=1758985558&srpvid=5aba6a26e07404e0&type=total&ucfs=1&"
+  }
+]

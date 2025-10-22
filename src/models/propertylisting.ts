@@ -31,4 +31,5 @@ export interface Cruise {
   route: string;
   duration: string;
   price: string;
+  url: string;
 }

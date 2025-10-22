@@ -1,11 +1,11 @@
 import React, {useState, useEffect} from "react";
 import "./placevisit.css";
-import { PlanTripSection, PlacevisitJson  } from "../../../models/placevisit";
+import { PlaceVisitSection, PlacevisitJson  } from "../../../models/placevisit";
 type PlacevisitProps = {
   city: string; // e.g. "Newyork", "London"
 };
-const placevisit: React.FC<PlacevisitProps> = ({city}) => {
-  const [content, setContent] = useState<PlanTripSection | null>(null);
+const Placevisit: React.FC<PlacevisitProps> = ({city}) => {
+  const [content, setContent] = useState<PlaceVisitSection | null>(null);
   useEffect(() => {
     fetch(`${process.env.PUBLIC_URL}/data/majorcities/${city}/placevisit.json`)
       .then((res) => res.json())
@@ -33,4 +33,4 @@ const placevisit: React.FC<PlacevisitProps> = ({city}) => {
 </section>);
 };
 
-export default placevisit
+export default Placevisit

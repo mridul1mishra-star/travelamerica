@@ -1,11 +1,13 @@
 import React, {useState} from "react";
 import "./plantripsection.css";
-import Cities from "../../../models/personas";
+import Personas from "../../../models/personas";
 import '@fortawesome/fontawesome-free/css/all.min.css';
+
+
 
 type Props = {
  onSelect: (section: number) => void;
- content: Cities[];
+ content: Personas;
 };
 
 const Plantripsection: React.FC<Props> = ({content, onSelect}) => {
@@ -14,7 +16,10 @@ const Plantripsection: React.FC<Props> = ({content, onSelect}) => {
         setActive(id);      // update active class
         onSelect(id);       // notify parent
       };
-      const city = content[0];
+      const city = content;
+      if (!city || !city.tabs) {
+    return <div>Loading trip section...</div>;
+  }
     return(
         <section className="plan-trip-section">
   <div className="container">
